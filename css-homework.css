@@ -18,6 +18,9 @@ img{
   height: auto;
   border: 5px solid green;
 }
+img:hover{
+  border-color: pink;
+}
 span{
   text-decoration: line-through;
 }
