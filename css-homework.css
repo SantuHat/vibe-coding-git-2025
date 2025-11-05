@@ -1,0 +1,20 @@
+h1{
+  color: blue;
+}
+p{
+  padding-left: 24px;
+}
+a{
+  color: red;
+}
+h3{
+  border-left: 5px solid red;
+  border-bottom: 5px solid red;
+}
+img{
+  object-fit: cover;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  border: 5px solid green;
+}
